@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonMakerCli", "DungeonMakerCli\DungeonMakerCli.csproj", "{90047F17-E026-461A-A949-99E0CA3DFCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonBackend", "DungeonBackend\DungeonBackend.csproj", "{462E5383-A4A2-45E1-97CE-C5BDD1D62C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90047F17-E026-461A-A949-99E0CA3DFCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90047F17-E026-461A-A949-99E0CA3DFCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90047F17-E026-461A-A949-99E0CA3DFCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90047F17-E026-461A-A949-99E0CA3DFCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462E5383-A4A2-45E1-97CE-C5BDD1D62C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462E5383-A4A2-45E1-97CE-C5BDD1D62C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462E5383-A4A2-45E1-97CE-C5BDD1D62C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462E5383-A4A2-45E1-97CE-C5BDD1D62C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E2BFCCD-8673-49DD-B6E9-1DE9CD9C1880}
+	EndGlobalSection
+EndGlobal
